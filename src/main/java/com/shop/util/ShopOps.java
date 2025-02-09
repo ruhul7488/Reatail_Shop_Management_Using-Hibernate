@@ -20,32 +20,7 @@ import com.shop.shopServices.ShopService;
 
 public class ShopOps {
 
-//    private static  ShopService shopservice =new ShopService();
-//     static Scanner sc =new Scanner(System.in);
-    
-//         public static void viewProductByName(){
-//             System.out.println("Enter Product's Model Name");
-//              String productName= sc.nextLine();
-//             //  List<Product> product=null;
-//         try {
-//             List<Product>  product=ShopService.getproductDetailByname(productName);
-//               if(product!=null){
-//            for(Product product1:product){
-//      System.out.println("=============================================================");
-//      System.out.println("productid    productModel   brand   serialnumber  Weight  color  display  storage  operatin_system  Ram  warranty(in years)  actual_price  saling_price");
-//      System.out.println( product1.getProductid() +product1.getProductModel()  + product1.getBrand() + product1.getSerialnumber() +product1.getWeight() +product1.getColor() +product1.getDisplay() +product1.getStorage() +product1.getOperatin_system() +product1.getRam() +product1.getWarranty() +product1.getActual_price() +product1.getSaling_price());
-//     System.out.println(" ===================================    ");
-//            }  
-//            }
-//            else{
-//             System.out.println("record not found ");
-//            }
-            
 
-//         } catch (SQLException ex) {
-//         }
-
-//     }
 
 
     static Scanner sc = new Scanner(System.in);
